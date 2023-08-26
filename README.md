@@ -1,6 +1,6 @@
 # Instructions
 
-## Task
+## Task from from META front-end Advance React course on COURSERA
 
 You've learned about React Context and how it allows you to define global state without passing individual props down through each component.
 One of the most common use cases for Context is to define a theme for your application. In this exercise, you'll create a light/dark theme switcher.
